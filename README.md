@@ -5,19 +5,9 @@
 ![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow?style=for-the-badge\&logo=powerbi)
 ![SQL](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge\&logo=postgresql)
 ![Excel](https://img.shields.io/badge/Tool-Excel-green?style=for-the-badge\&logo=microsoft-excel)
-![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
 
----
+<img width="640" height="320" alt="image" src="https://github.com/user-attachments/assets/2ed83dde-474c-4882-8d48-f8ff802f711a" />
 
-## 🎬 Live Dashboard Preview (Interactive Feel)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="700"/>
-</p>
-
-> ⚡ *Dynamic dashboard built to simulate real-time business insights*
-
----
 
 ## 🧠 Business Problem
 
